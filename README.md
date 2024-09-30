@@ -11,3 +11,7 @@ Para que o sistema diferencie a escolha e execute a operação, utilizamos uma l
 Ao término da operação, o sistema realiza o cálculo e retorna o resultado junto com uma mensagem.
 
 Exemplo: "Olá, Wesley! O resultado da operação é: ".
+
+Para executar basta digitar ./calculadora.sh
+
+Necessario conceder permissão para o arquivo através do CHMOD +x calculadora.sh
